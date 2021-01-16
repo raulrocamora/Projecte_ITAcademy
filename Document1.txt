@@ -1,5 +1,5 @@
 1. Creació d'un document de text.
 
-2. 
+2. Primera modificació del document de text. 
 
 3. Segona modificació del document de text.
